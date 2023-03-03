@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+main()
+{
+	textbackground(12);
+	textcolor(128);
+	cprintf("\nTESTE");
+	getch();
+}
